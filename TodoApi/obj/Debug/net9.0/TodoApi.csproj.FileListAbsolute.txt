@@ -55,3 +55,4 @@
 /Users/mr.mgeli/Desktop/dotnet learning/TodoApi/bin/Debug/net9.0/NSwag.Generation.AspNetCore.dll
 /Users/mr.mgeli/Desktop/dotnet learning/TodoApi/bin/Debug/net9.0/YamlDotNet.dll
 /Users/mr.mgeli/Desktop/dotnet learning/TodoApi/obj/Debug/net9.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/mr.mgeli/Desktop/dotnet learning/TodoApi/obj/Debug/net9.0/TodoApi.sourcelink.json
